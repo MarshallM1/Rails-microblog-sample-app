@@ -1,4 +1,6 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial sample application done by MarshallM1
+
+Find the Heroku deployed app at https://morning-wave-35725.herokuapp.com/
 
 ## License
 
