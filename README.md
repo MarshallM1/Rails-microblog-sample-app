@@ -2,6 +2,13 @@
 
 Find the Heroku deployed app at https://morning-wave-35725.herokuapp.com/
 
+Log in to the heroku app using:
+
+Email: example@railstutorial.org
+Password: foobar
+
+Or sign up for your own account to see the apps full functionality.
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
